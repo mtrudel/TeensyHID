@@ -1,4 +1,4 @@
-update=Tuesday, December 12, 2017 'pmt' 08:56:42 pm
+update=Thursday, January 18, 2018 'pmt' 08:57:03 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,7 +29,7 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=TeensyHID-rescue
+LibName1=teensy
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -59,4 +59,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/Users/mat/Downloads/teensy_library-master/teensy
