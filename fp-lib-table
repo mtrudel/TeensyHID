@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name Teensy)(type Github)(uri https://github.com/XenGi/teensy.pretty)(options "")(descr ""))
   (lib (name moshozenfootprints)(type KiCad)(uri /Users/mat/Code/tooner-board/model-two/moshozenfootprints.pretty)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri "$(KIPRJMOD)/teensy.pretty")(options "")(descr ""))
 )
